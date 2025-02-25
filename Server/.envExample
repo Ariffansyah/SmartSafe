@@ -1,0 +1,9 @@
+DB_USER = user
+DB_PASS = password
+DB_ACCOUNTS_NAME = database
+DB_MAPS_NAME = database
+DB_PINS_NAME = database
+DB_HOST = localhost
+DB_PORT = 6969
+EXPRESS_PORT = 4200
+JWT_SECRET = secret
